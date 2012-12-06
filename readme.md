@@ -1,6 +1,12 @@
 ![Mop][1]
 ==========
 
+Required Alterations
+--------------------
+* Incorporate the configuration of proxy settings
+* Incorporate the configuration the local maven repository
+* Longterm - respect the settings.xml file under .m2 folder
+
 Description
 -----------
 
